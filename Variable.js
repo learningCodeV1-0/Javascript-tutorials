@@ -18,7 +18,6 @@ gameLevel = 2;
 gameLevel = 3;
 alert("Your Level is " + gameLevel )
 
-
 //switch variables/
 
 function test();
