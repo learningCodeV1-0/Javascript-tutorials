@@ -13,7 +13,6 @@ var yourName = prompt("What is your name?");
 alert("My name is " + myName + ", Welcome to javascript "  + yourName + "!") // add vaeriable name to store data//
 
 
-
 var gameLevel = 1;
 gameLevel = 2;
 gameLevel = 3;
@@ -29,7 +28,6 @@ var b= 3;
 var c= a;
 a = b;
 b = c;
-
 
 console.log("a is " + a);
 console.log("b is " + b);
