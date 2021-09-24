@@ -13,11 +13,19 @@ var yourName = prompt("What is your name?");
 alert("My name is " + myName + ", Welcome to javascript "  + yourName + "!") // add vaeriable name to store data//
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0ffe78ee36fb06e90e363414ff4e48a406936556
 var gameLevel = 1;
 gameLevel = 2;
 gameLevel = 3;
 alert("Your Level is " + gameLevel )
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0ffe78ee36fb06e90e363414ff4e48a406936556
 //switch variables/
 
 function test();
@@ -28,6 +36,10 @@ var c= a;
 a = b;
 b = c;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0ffe78ee36fb06e90e363414ff4e48a406936556
 console.log("a is " + a);
 console.log("b is " + b);
 
